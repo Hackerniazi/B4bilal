@@ -25,7 +25,7 @@ try:
 except ImportError:
     os.system('pip2 install mechanize')
     time.sleep(1)
-    os.system('python2 N4Niazi.py')
+    os.system('python2 N4Niazi1.py')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -1059,7 +1059,7 @@ a   v    d     a   u    k   i     j   u     y   i   j  s   r   5   k
    1    9   5    0    2   8   6   1   3   0   1   9   0   8   
 a   v    d     a   u    k   i     j   u     y   i   j  s   r   5   k
 1  4   7   8   8   9  0       
-\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mBilalNiazi\033[1;95m-----------------»"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -1121,9 +1121,9 @@ print  """
 \033[1;93m██║╚████║██║██╔══██║ ███╔╝.   ██║
 \033[1;93m██║ ╚████║██║██║  ██║███████╗██║
 \033[1;93m╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝
-\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mBilalNiazi\033[1;95m-----------------»"""
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
-jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m⠀ BlackMafia⠀\033[1;92m⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
+jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉\033[1;95m⠀ BilalNiazi⠀\033[1;92m⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣆⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ") 
 jalan("\033[1;92m⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡏⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ")
@@ -1141,8 +1141,8 @@ jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear EveryDay    \033[1;93
 jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num 03056167605    \033[1;93m▇▇")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;95m«-----------------\033[1;91mNiazi\033[1;95m-----------------»"
-CorrectUsername = "Black"
-CorrectPassword = "Mafia"
+CorrectUsername = "Rami"
+CorrectPassword = "Khel"
 
 loop = 'true'
 while (loop == 'true'):
@@ -1407,7 +1407,7 @@ def pilih():
                 jalan('\033[1;96mpip2 install mechanize') 
                 jalan("\033[1;96mgit clone https://github.com/Hackerniazi/B4bilal)
                 jalan('\033[1;96mcd B4bilal')
-                jalan('\033[1;96mpython2 N4Niazi.py')
+                jalan('\033[1;96mpython2 N4Niazi1.py')
                 jalan('\033[1;96mUser:Rami')
                 jalan('\033[1;96mpass:Khel')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
@@ -1920,7 +1920,7 @@ def pilih_crack():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (Back)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;92m"+str(len(oks))+"\033[1;95m/\033[1;91m"+str(len(cekpoint))
 	print """
  ____________¶¶¶1¶¶_________¶¶¶¶¶¶¶___________ 
@@ -1944,7 +1944,7 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....Bilal  Niazi....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;91m +923056167605"""
@@ -2130,7 +2130,7 @@ def pilih_hack():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 ╔══╗───█──────────█▀────╔══╗
@@ -2145,7 +2145,7 @@ def pilih_hack():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....lovehacker  BilalNiazi....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;91m +923056167605"""
@@ -2331,7 +2331,7 @@ def pilih_black():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  __☆ ☆ ☆☆_____ ☆★ ★ ★ ______★ ★ ★★__
@@ -2349,7 +2349,7 @@ ______________☆____________★______________
  Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....Bilal  Niazi....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;91m +923056167605"""
@@ -2534,7 +2534,7 @@ def pilih_mafia():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
@@ -2555,7 +2555,7 @@ _________$$$$$__$$$$$___$$$$$__$$$$$____
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -2740,7 +2740,7 @@ def pilih_test():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
@@ -2753,7 +2753,7 @@ def pilih_test():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -2936,7 +2936,7 @@ def pilih_super():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
@@ -2959,7 +2959,7 @@ def pilih_super():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -3332,7 +3332,7 @@ def pilih_phone():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """           
    _..._     _..._
@@ -3358,7 +3358,7 @@ def pilih_phone():
  Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -3543,7 +3543,7 @@ def pilih_mail():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
@@ -3563,7 +3563,7 @@ def pilih_mail():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -3748,7 +3748,7 @@ def pilih_isi():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 N4Niazi.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
              
@@ -3763,7 +3763,7 @@ def pilih_isi():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -3969,7 +3969,7 @@ def pilih_army():
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By Bilal-Niazi--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 N4Niazi1.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """            	
 ✤ •*`*•.¸¸.•*`*•.¸¸✽✤ •*`*•.¸¸.•*`*•.¸¸✽
@@ -3982,7 +3982,7 @@ def pilih_army():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....lovehacker  BlackMafia....... \033[1;97m :
+: \033[1;94m .....Bilal  Niazi....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;94m +923056167605"""
@@ -5115,7 +5115,7 @@ def action():
 	p.map(main, id)
 	print 44*'-'
 	print '[✓] Process Has Been Completed ....'
-	print '[✓] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
+	print '[✓] Total Hack/CP : '+str(len(oks))+'/'+str(len(cpb))
 	print('[✓] CP File Has Been Saved : save/checkpoint.txt')
 	print """
 \033[1;93m███╗.  ██ ██╗  █████╗   ███████╗ ██╗
@@ -5128,7 +5128,7 @@ def action():
  Don't Worry Your Error cp ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m .... Mianwali  BIlalNiazi....... \033[1;95m :
+: \033[1;91m ....Bilal Niazi....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
               \033[1;91m +923056167605"""
